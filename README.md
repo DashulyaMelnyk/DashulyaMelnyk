@@ -12,4 +12,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-CE92FE?style=for-the-badge&logo=HTML5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-FFB640?style=for-the-badge&logo=CSS3&logoColor=000000)
 
-
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/daria-melnyk-07846b1a9/)
