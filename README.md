@@ -6,6 +6,10 @@
 
 I'm a student of Software Engineering from Ukraine. I'm a big lover of resolving interesting and confusing tasks :upside_down_face:, especially working on sapid subject areas. If you want to learn more about me and my skills, take a look at some of my projects in [repositories](https://github.com/DashulyaMelnyk?tab=repositories).	:see_no_evil:
 
+
+![Girl programmer](https://github.com/DashulyaMelnyk/DashulyaMelnyk/blob/main/assets/d4tvukbt5mra37cvwklk.gif)
+
+
 ### Languages and tools
 ![Java](https://img.shields.io/badge/Java-974060?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
