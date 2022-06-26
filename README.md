@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a student of Software Engineering from Ukraine. I feel most in my place while resolving interesting and confusing tasks [:upside_down_face:] 
+I'm a student of Software Engineering from Ukraine. I feel most in my place while resolving interesting and confusing tasks :upside_down_face:
 
 ### Languages and tools
 ![Java](https://img.shields.io/badge/Java-974060?style=for-the-badge&logo=java)
